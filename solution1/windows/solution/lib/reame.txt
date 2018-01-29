@@ -1,0 +1,5 @@
+please rename:
+    
+ 1) 'Numberlib.libRename' to 'Numberlib.lib'
+
+ in order to execute this program.
