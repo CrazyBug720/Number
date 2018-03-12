@@ -10,5 +10,5 @@ Structure:
   
   solution1: used raw pointer and supported cascading "+" operations.
  
-  solution2: used smarter pointer but not supported cascading "+" operations.
+  solution2: used smart pointer but not supported cascading "+" operations.
 
